@@ -29,7 +29,8 @@
 
 <script>
 import axios from 'axios';
-const apiKey = process.env.VUE_APP_API_KEY;
+const apiKey = "m1PH6agMnnagbHNB9kSVXLCHnrQ=";
+// const apiKey = process.env.VUE_APP_API_KEY;
 
 export default {
   name: 'FuelCalculator',
